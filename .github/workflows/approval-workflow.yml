@@ -1,7 +1,7 @@
 name: Team awesome's approval workflow
 on: pull_request_review
 jobs:
-  labelWhenApproved:]
+  labelWhenApproved:
     name: Label when approved
     runs-on: ubuntu-latest
     steps:
